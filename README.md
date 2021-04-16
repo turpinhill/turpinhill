@@ -19,6 +19,8 @@
 
 # Educational Institutions-only
 - Complete CYBERCORPS [Requisition](https://hipaa.jotform.com/202047828564156) for fiscal year 2022
+> Note: We have already secured our cut-off for institutional partners for fiscal year 2022.
+> All forms completed after April 15, 2021 will be placed on our waiting list and will be subject to funding. Thank you for your interest.
 
 <!---
 turpinhill/turpinhill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
