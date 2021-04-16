@@ -17,10 +17,19 @@
 - Complete Mutual Nondisclosure
 - Complete Subsription Agreement
 
-# Educational Institutions-only
+# Higher Education Institutions-only
 - Complete CYBERCORPS [Requisition](https://hipaa.jotform.com/202047828564156) for fiscal year 2022
 > Note: We have already secured our cut-off for institutional partners for fiscal year 2022.
 > All forms completed after April 15, 2021 will be placed on our waiting list and will be subject to funding. Thank you for your interest.
+
+# K12 Institutions
+> Information will be posted soon.
+
+# Whitelabel Blockchain Ordering Services Node
+> Information will be posted soon.
+
+# Agriculture Institutions and Individuals 
+> Information will be posted soon.
 
 # Component Unit Reporting 
 - CYBERCORPS is a discretely presented component unit of the District of New Liberia circa 1841.
