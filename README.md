@@ -2,7 +2,7 @@
 - 👀 We are interested in New Emerging Technology
 - 🌱 I’m currently integrating a Chainlink node operation.
 - 💞️ We are looking to collaborate on DApp development for New Emerging Technology.
-- 📫 How to reach us, contact Mike <mike@digital-ignite.com>.
+- 📫 How to reach us, contact  [Turpin Hill](info@turpinhill.com).
 
 # How to Invest
 - Review NASA/CYBERCORPS [Press Release](https://www.nasa.gov/press-release/goddard/2020/nasa-technology-to-reveal-crop-health-insights-for-agriculture-industry)
