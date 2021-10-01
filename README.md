@@ -1,10 +1,14 @@
 - 👋 Hi, I’m @turpinhill
-- 👀 We are interested in New Emerging Technology
-- 🌱 I’m currently integrating a Chainlink node operation.
+- 👀 We are interested in New Emerging Technology.
+- 👀 We have a landing page for [Space Apps](https://spaceapps.us).
+- 🌱 I’m currently local lead for NASA Space Apps.
 - 💞️ We are looking to collaborate on DApp development for New Emerging Technology.
 - 📫 How to reach us, contact  [Turpin Hill](info@turpinhill.com).
 
-# How to Invest
+# Participants
+- Registration for participants is free.
+
+# How to Invest / Sponsor
 - Review NASA/CYBERCORPS [Press Release](https://www.nasa.gov/press-release/goddard/2020/nasa-technology-to-reveal-crop-health-insights-for-agriculture-industry)
 - Complete Identity Verification
 - Complete Mutual Nondisclosure
